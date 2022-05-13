@@ -4,6 +4,8 @@ SPDX-FileCopyrightText: 2021 The go-metafeed Authors
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
+:warning: **This repo was moved to https://github.com/ssbc/go-metafeed.** This archival will remain in this GitHub org `ssb-ngi-pointer` to demonstrate the outcome of the work done by the SSB NGI Pointer team during 2020 and 2021. The SSB NGI Pointer team is no longer active because we completed our grant project.
+
 # go-metafeeds
 
 This [Go](https://golang.org) module implements the [bendy butt specification](https://github.com/ssb-ngi-pointer/bendy-butt-spec/) to encode and verify feed entries in that format and offers utility functions for creating and verifiying signed content entries as required by the [meta feed spec](https://github.com/ssb-ngi-pointer/ssb-meta-feed-spec).
